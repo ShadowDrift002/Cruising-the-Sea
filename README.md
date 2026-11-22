@@ -1,7 +1,7 @@
 # RageMatter Labs
 
 <p align="center">
-  <img src="assets/studio_logo.jpg" width="180" alt="RageMatter Labs">
+  <img src="assets/studio_logo.jpg" width="80%" alt="RageMatter Labs">
 </p>
 
 **RageMatter Labs** present Crusing The Sea.
@@ -9,7 +9,7 @@
 # Crushing the Sea
 
 <p align="center">
-  <img src="assets/game_logo.png" width="400" alt="Crushing the Sea">
+  <img src="assets/game_logo.png" width="80%" alt="Crushing the Sea">
 </p>
 
 **Crushing the Sea** is a multiplayer survival, exploration, and naval adventure game developed by **RageMatter Labs** on Roblox.
